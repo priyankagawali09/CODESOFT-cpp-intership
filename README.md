@@ -6,14 +6,7 @@
 This program generates a random number between 1 and 100, then prompts the user to guess the number. After each guess, it provides feedback indicating whether the guess is too low or too high. The loop continues until the correct number is guessed.
 
 ## 📦 Files:
-- `task1.cpp`: C++ source code for the guessing game.
-
-## 🧪 How to Compile and Run:
-
-```bash
-g++ task1.cpp -o guessing_game
-./guessing_game
-```
+- [task1.cpp](https://github.com/priyankagawali09/CODESOFT-cpp-intership/blob/main/task1.cpp): C++ source code for the guessing game.
 
 ## 💻 Sample Output:
 
