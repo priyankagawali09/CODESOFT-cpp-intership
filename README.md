@@ -36,15 +36,15 @@ This program performs basic arithmetic operations such as addition, subtraction,
 
 ## 💻 Sample Output:
 ```
-Welcome to the Calculator Program!
-Enter first number: 10
-Enter an operator (+, -, *, /): *
-Enter second number: 5
-Result: 50
+____Welcome in The Calculator Program____
+Enter the 1st Number : 45
+Enter the 2nd Number : 32
+Enter the Operation (+,-,/,*) :-
+Result: 13
 ```
 
 ## 🎥 Demo Video:
-[Click to Watch Demo](https://drive.google.com/file/d/your-task2-video-id/view?usp=sharing)
+[Click to Watch Demo](https://drive.google.com/file/d/1QuB0z2VxP4EEFZK5s_wZS5X4d_U-z0ed/view?usp=sharing)
 
 ---
 
