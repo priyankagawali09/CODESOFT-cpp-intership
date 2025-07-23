@@ -24,6 +24,30 @@ Congratulations! You've guessed the number (63)
 ## 🎥 Demo Video:
 [Click to Watch Demo](https://drive.google.com/file/d/1DF5fR-nuGnzQmFXBSDHtD7dYzZmnNCII/view?usp=sharing)
 
+---
+
+# 🎯 Task 2 - Calculator Program in C++
+
+## 📄 Description:
+This program performs basic arithmetic operations such as addition, subtraction, multiplication, and division. It allows the user to input two numbers and select an operation to perform.
+
+## 📦 Files:
+- [task2.cpp](https://github.com/priyankagawali09/CODESOFT-cpp-intership/blob/main/task2.cpp): C++ source code for the calculator program.
+
+## 💻 Sample Output:
+```
+Welcome to the Calculator Program!
+Enter first number: 10
+Enter an operator (+, -, *, /): *
+Enter second number: 5
+Result: 50
+```
+
+## 🎥 Demo Video:
+[Click to Watch Demo](https://drive.google.com/file/d/your-task2-video-id/view?usp=sharing)
+
+---
+
 ## 🛠️ Tech Stack:
 - Language: C++
 - Compiler: g++
